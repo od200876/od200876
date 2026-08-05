@@ -1,4 +1,5 @@
-## 🎯 Be a Lead Data Scientist
+## 🎯
+ Be a Lead Data Scientist
 
 - 👨🏽‍💻 I'm computer science student
 - 🌱 I’m currently learning Python
